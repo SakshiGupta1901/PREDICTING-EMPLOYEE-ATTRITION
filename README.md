@@ -16,6 +16,7 @@ Data has various data points on our employees, but you are most interested in wh
 gone to work somewhere else.
 
 And you want to understand how this relates to workforce attrition.
+
 Education: 1 'Below College' , 2 'College' , 3 'Bachelor', 4 'Master' , 5'Doctor'
 
 Environment Satisfaction: 1 'Low', 2 'Medium', 3 'High', 4 'Very High'
